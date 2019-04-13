@@ -53,13 +53,26 @@ https://www.pexels.com/photo/cityscape-2096697/
 # Performance
 The following table details how much space is saved in comparison to a bmp formatting of the corresponding image. 
 | Sensitivity | image 1 spf  | image 1 bmp | image 2 spf  | image 2 bmp |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+
+
 | 1000 |  149 KB |  136 KB | 4318 KB  | 3243 KB  |
+
+
 | 2500  | 68 KB |  96 KB | 1294 KB  | 2306 KB  |
+
+
 | 4000  |  50 KB | 79 KB  | 705 KB  | 1892 KB  |
+
+
 | 5000  |  45 KB | 68 KB  | 538 KB  | 1702 KB  |
+
+
 | 6000  |  41 KB | 57 KB  | 430 KB  |  1529 KB |
+
+
 | 7500  |  39 KB | 52 KB  | 332 KB  | 1370 KB  |
+
+
 | 10000  |  37 KB | 48 KB  | 258 KB  | 1288 KB  |
 
 # How to use
